@@ -1,12 +1,14 @@
-🍃 Análises de macromorfologia foliar
+<div align="center">
 
-![R](https://img.shields.io/badge/R-Análises-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Morfometria](https://img.shields.io/badge/Morfometria-Foliar-6A0572?style=for-the-badge)
-![Ambiente](https://img.shields.io/badge/Ecologia-Ambiental-2E8B57?style=for-the-badge)
+# 🍃 Leaf Macromorphology Analyses
 
-Scripts em **R** para investigar a variação macromorfológica das folhas entre diferentes domínios fitogeográficos.
+![R](https://img.shields.io/badge/R-Analyses-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Morphometrics](https://img.shields.io/badge/Leaf-Morphometrics-6A0572?style=for-the-badge)
+![Environment](https://img.shields.io/badge/Environmental-Ecology-2E8B57?style=for-the-badge)
 
-### 👥 Autores
+**R** scripts for investigating variation in leaf macromorphology across different phytogeographic domains.
+
+### 👥 Authors
 
 **Juliana Aljahara · Niksoney A. Mendonça · Thaís E. Almeida**
 
@@ -14,22 +16,22 @@ Scripts em **R** para investigar a variação macromorfológica das folhas entre
 
 ---
 
-### 📏 Medidas lineares
+### 📏 Linear measurements
 
-Avaliam diferenças no tamanho e nas proporções das estruturas foliares por meio de testes estatísticos, PCA, LDA, PERMANOVA, modelos ambientais e análises de alometria.
+These analyses assess differences in the size and proportions of leaf structures through statistical tests, PCA, LDA, PERMANOVA, environmental models, and allometric analyses.
 
-### 🍂 Contorno foliar
+### 🍂 Leaf outlines
 
-Utilizam morfometria geométrica e Fourier elíptico para descrever e comparar a forma das folhas, incluindo PCA, LDA, PERMANOVA e matrizes de distância.
+Geometric morphometrics and elliptical Fourier analysis are used to describe and compare leaf shape, including PCA, LDA, PERMANOVA, and distance matrices.
 
-### 🌎 Análises ambientais
+### 🌎 Environmental analyses
 
-Caracterizam os locais de ocorrência com informações climáticas, edáficas, topográficas e de estrutura da vegetação. Incluem seleção de variáveis, NMDS, PERMANOVA, agrupamentos e testes de Mantel.
+Occurrence sites are characterized using climatic, edaphic, topographic, and vegetation-structure information. The analyses also include variable selection, NMDS, PERMANOVA, clustering, and Mantel tests.
 
-### 🔗 Análises integrativas
+### 🔗 Integrative analyses
 
-Relacionam a variação morfológica às condições ambientais por meio de dbRDA e Procrustes.
+Morphological variation is related to environmental conditions through dbRDA and Procrustes analyses.
 
 ---
 
-> 🎯 **Objetivo geral:** avaliar como o tamanho e a forma das folhas variam entre domínios fitogeográficos e como essa variação está associada ao ambiente.
+> 🎯 **Overall objective:** to evaluate how leaf size and shape vary across phytogeographic domains and how this variation is associated with environmental conditions.
